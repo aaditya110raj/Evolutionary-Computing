@@ -85,6 +85,3 @@ This highlights a **40–45% performance gap**, motivating exploration for bette
 
 Ensure all required `.csv` and `.txt` files are in the correct directory as specified in the script paths.
 
-## 👤 Author
-
-Developed as part of academic exploration into approximation algorithms for combinatorial optimization problems.
