@@ -85,19 +85,7 @@ Ensure data files (`*.csv`) are in the same folder.
 
 ---
 
-## 👤 Author
 
-**Aaditya Raj**  
-M.Tech (Computer Science), NIT Jamshedpur  
-📍 Bokaro Steel City, Jharkhand  
-📧 [Your Email]
 
----
 
-## 🪪 License
 
-This project is licensed for academic and research purposes only.
-
----
-
-⭐ *Star this repo if you find it helpful!*
