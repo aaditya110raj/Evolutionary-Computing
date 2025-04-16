@@ -3,7 +3,7 @@ function executeGapProcessing()
     allResults = cell(numFiles, 1);
 
     % Create and open results CSV
-    resultsPath = 'gap_max_results.csv';
+    resultsPath = 'gapResult.csv';
     outputHandle = fopen(resultsPath, 'w');
     if outputHandle == -1
         error('Unable to write to file: %s', resultsPath);
